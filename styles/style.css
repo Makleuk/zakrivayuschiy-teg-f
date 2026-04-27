@@ -1,6 +1,6 @@
 .page {
   min-inline-size: 320px;
-  min-block-size: 100dvb;
+  min-block-size: 100vh;
   font-family: var(--main-font-family);
   font-variation-settings: "wght" var(--main-font-weight);
   background-image: var(--gradient);
